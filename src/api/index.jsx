@@ -20,7 +20,7 @@ export const getPlacesData = async (type, sw, ne) => {
         // ...(type === "hotels" && { adults: "1" }),
       },
       headers: {
-        "x-rapidapi-key": "a23838c0demsh087144c00bc9d8ep1f463djsn8db0fc3a35fe",
+        "x-rapidapi-key": "0c09f23658msh53c4e6f0423cb9cp12194ejsn3aa701e7efc2",
         "x-rapidapi-host": "travel-advisor.p.rapidapi.com",
       },
     });
