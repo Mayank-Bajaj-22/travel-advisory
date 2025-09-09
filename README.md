@@ -1,12 +1,25 @@
-# React + Vite
+# Travel Advisor
+- A travel Web APP that helps user explores hotels, attraction and restaurants around the world with real time data . Built with Vite APP (React JS) , Leafket Maps , Rapid API - travel advisor api , this project combine interactive maps , minimal modern UI and smart filter to deliver a smooth travel discovery experince.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Feartures:
+- ### Interactive Map Integration:
+  - Explore Hotels, Restaurants and atttractions around near you on just scrolling on map.
+- ### Smart Search and Filters:
+  - Result by type (hotls, restaurants and attractions) and rating.
+- ### Location-based Data:
+  - Real-time data based on user's l0ocation or selected region.
+- ### Responsive Design:
+  - Works seamlessely on on desktop, tablet and desktop.
+- ### Modern UI/UX:
+  - Clean design with smooth navigation for a better user experience.
+- ### Real time API Integration:
+  - Uses Rapid API's Travel Advisor for uopdated travel data.
+ 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack: 
+  - React JS
+  - Tailwind CSS
+  - Axios (api call)
+  - React router
+  - Leafket Map
+  - Rapid Travel Advisor API
